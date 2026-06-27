@@ -1,7 +1,7 @@
 # Hi, I'm Someshwar D 👋
 
 🎓 Final Year B.Tech CSE Student at Dhanalakshmi Srinivasan University, Tamil Nadu  
-💡 Aspiring Data Scientist |  
+⚡ Aspiring Data Scientist   
 🤝 Co-Builder of [Tamil AI](https://tamil-ai.me) — Open Source AI Platform for Tamil Language Intelligence  
 
 ---
