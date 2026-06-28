@@ -19,7 +19,7 @@
 ## 🚀 Projects
 | Project | Description | Status |
 |---|---|---|
-| 🌐 [Tamil AI](https://tamil-ai.me) | Open Source NLP Platform for Tamil Language | 🟢 Active |
+| 🌐 Tamil AI | Open Source NLP Platform for Tamil Language | [🟢 Active](https://tamil-ai.me) |
 | 📊 Customer Churn Prediction | ML project to predict telecom customer churn | 👉[Tap to view](https://github.com/someshwar-d/telco-customer-churn-prediction.git) |
 
 ---
